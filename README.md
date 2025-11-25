@@ -74,11 +74,5 @@ The script will fill empty cells in the Translation column.
 
 The script creates a new file with `.hinglish` suffix (or as specified with `--output`), preserving the original file structure.
 
-## License
-
-[Add your license here]
-
-## Contributing
-
-[Add contribution guidelines if needed]
+## All Rights Reserved by ANUSHREE
 
